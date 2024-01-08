@@ -50,3 +50,5 @@ Acesso em: https://www.delftstack.com/howto/git/git-push-origin-master/. Acesso 
 Acesso em: https://dev.to/gabriellend/this-one-thing-helped-me-understand-git-commands-940. Acesso 08 de Jan. 2024.
 
 Acesso em: https://www.atlassian.com/br/git/tutorials/using-branches/git-merge. Acesso 08 de Jan. 2024.
+
+Acesso em: https://github.com/rafaballerini/GitTutorial?tab=readme-ov-file. Acesso 08 de Jan. 2024.
