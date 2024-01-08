@@ -1,4 +1,4 @@
-### Olá, esse projeto ensina a usar o git, seguindo as orientações de Rafaella Ballerini,como também outros sites, ajudando assim nas definições junto com o canal dela, assista a vídeo aula no link  logo abaixo seguir:
+### Olá, esse projeto ensina a usar o git, seguindo as orientações de Rafaella Ballerini,como também outros sites, ajudando assim nas definições junto com o canal dela, assista a vídeo aula no link  logo abaixo:
 
 ## Comandos:
 * git init: Crie um repositório Git vazio ou reinicialize um existente;
