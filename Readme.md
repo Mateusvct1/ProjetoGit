@@ -36,19 +36,29 @@ Um branch no Git é simplesmente um ponteiro móvel para um desses commits. O no
 
 Merge é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
 
+Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
+
 ## Bibliografia:
-Acesso em: https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini. Acesso 08 de Jan. 2024.
+Disponível em: https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini. Acesso 08 de Jan. 2024.
 
-Acesso em: https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras#:~:text=O%20nome%20do%20branch%20padr%C3%A3o,novo%20commit%2C%20ele%20avan%C3%A7a%20automaticamente.&text=O%20branch%20'%60%20master%20'',n%C3%A3o%20%C3%A9%20um%20branch%20especial. Acesso 08 de Jan. 2024.
+Disponível em: https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras#:~:text=O%20nome%20do%20branch%20padr%C3%A3o,novo%20commit%2C%20ele%20avan%C3%A7a%20automaticamente.&text=O%20branch%20'%60%20master%20'',n%C3%A3o%20%C3%A9%20um%20branch%20especial. Acesso 08 de Jan. 2024.
 
-Acesso em: https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository. Acesso 08 de Jan. 2024.
+Disponível em: https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository. Acesso 08 de Jan. 2024.
 
-Acesso em: https://stackoverflow.com/questions/5697750/what-exactly-does-the-u-do-git-push-u-origin-master-vs-git-push-origin-ma. Acesso 08 de Jan. 2024.
+Disponível em: https://stackoverflow.com/questions/5697750/what-exactly-does-the-u-do-git-push-u-origin-master-vs-git-push-origin-ma. Acesso 08 de Jan. 2024.
 
-Acesso em: https://www.delftstack.com/howto/git/git-push-origin-master/. Acesso 08 de Jan. 2024.
+Disponível em: https://www.delftstack.com/howto/git/git-push-origin-master/. Acesso 08 de Jan. 2024.
 
-Acesso em: https://dev.to/gabriellend/this-one-thing-helped-me-understand-git-commands-940. Acesso 08 de Jan. 2024.
+Disponível em: https://dev.to/gabriellend/this-one-thing-helped-me-understand-git-commands-940. Acesso 08 de Jan. 2024.
 
-Acesso em: https://www.atlassian.com/br/git/tutorials/using-branches/git-merge. Acesso 08 de Jan. 2024.
+Disponível em: https://www.atlassian.com/br/git/tutorials/using-branches/git-merge. Acesso 08 de Jan. 2024.
 
-Acesso em: https://github.com/rafaballerini/GitTutorial?tab=readme-ov-file. Acesso 08 de Jan. 2024.
+Disponível em: https://github.com/rafaballerini/GitTutorial?tab=readme-ov-file. Acesso 08 de Jan. 2024.
+
+Disponível em: https://dev.to/guilhermemanzano/como-criar-um-readme-md-para-o-github-do-jeito-certo-2lgg. Acesso 09 de Jan. 2024.
+
+Disponível em: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open. Acesso 09 de Jan. 2024.
+
+Disponível em: https://www.collectiveray.com/pt/extens%C3%A3o-de-arquivo-markdown-md. Acesso 09 de Jan. 2024.
+
+Disponível em: https://ficheiros.com.br/extensao/md/. Acesso 09 de Jan. 2024.
