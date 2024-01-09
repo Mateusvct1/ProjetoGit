@@ -32,11 +32,11 @@
 Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que mostra passo como fazer o procedimento correto.
 
 ## Algumas definições:
-Um branch no Git é simplesmente um ponteiro móvel para um desses commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Cada vez que você faz um novo commit, ele avança automaticamente.
+* Um branch no Git é simplesmente um ponteiro móvel para um desses commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Cada vez que você faz um novo commit, ele avança automaticamente.
 
-Merge é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
+* Merge é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
 
-Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub. Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens.
+* Markdown Syntax um conjunto de regras para formatação de texto na internet, usada em plataformas como o GitHub e o slack. São textos simples com implemetações especiais. como por exemplo #, * e ! para titulos, listas e textos itálicos e negrito como também inserir imagens. Tornando uma formatação de texto na web mais simples e padronizada.
 
 Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
 
