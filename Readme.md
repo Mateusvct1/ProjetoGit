@@ -41,26 +41,27 @@ Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que 
 Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
 
 ## Bibliografia:
-Disponível em: https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini. Acesso 08 de Jan. 2024.
+Disponível em: [Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini). Acesso 08 de Jan. 2024.
 
-Disponível em: https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras#:~:text=O%20nome%20do%20branch%20padr%C3%A3o,novo%20commit%2C%20ele%20avan%C3%A7a%20automaticamente.&text=O%20branch%20'%60%20master%20'',n%C3%A3o%20%C3%A9%20um%20branch%20especial. Acesso 08 de Jan. 2024.
+Disponível em: [Site do Git](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras#:~:text=O%20nome%20do%20branch%20padr%C3%A3o,novo%20commit%2C%20ele%20avan%C3%A7a%20automaticamente.&text=O%20branch%20'%60%20master%20'',n%C3%A3o%20%C3%A9%20um%20branch%20especial). Acesso 08 de Jan. 2024.
 
-Disponível em: https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository. Acesso 08 de Jan. 2024.
+Disponível em: [GitHub Docs](https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository). Acesso 08 de Jan. 2024.
 
-Disponível em: https://stackoverflow.com/questions/5697750/what-exactly-does-the-u-do-git-push-u-origin-master-vs-git-push-origin-ma. Acesso 08 de Jan. 2024.
+Disponível em: [Stackoverflow](https://stackoverflow.com/questions/5697750/what-exactly-does-the-u-do-git-push-u-origin-master-vs-git-push-origin-ma). Acesso 08 de Jan. 2024.
 
-Disponível em: https://www.delftstack.com/howto/git/git-push-origin-master/. Acesso 08 de Jan. 2024.
+Disponível em: [Delftstack](https://www.delftstack.com/howto/git/git-push-origin-master/). Acesso 08 de Jan. 2024.
 
-Disponível em: https://dev.to/gabriellend/this-one-thing-helped-me-understand-git-commands-940. Acesso 08 de Jan. 2024.
+Disponível em: [Dev.to](https://dev.to/gabriellend/this-one-thing-helped-me-understand-git-commands-940). Acesso 08 de Jan. 2024.
 
-Disponível em: https://www.atlassian.com/br/git/tutorials/using-branches/git-merge. Acesso 08 de Jan. 2024.
+Disponível em: [Atlassian](https://www.atlassian.com/br/git/tutorials/using-branches/git-merge). Acesso 08 de Jan. 2024.
 
-Disponível em: https://github.com/rafaballerini/GitTutorial?tab=readme-ov-file. Acesso 08 de Jan. 2024.
+Disponível em: [Git Tutorial da Rafaella Ballerini](https://github.com/rafaballerini/GitTutorial?tab=readme-ov-file). Acesso 08 de Jan. 2024.
 
-Disponível em: https://dev.to/guilhermemanzano/como-criar-um-readme-md-para-o-github-do-jeito-certo-2lgg. Acesso 09 de Jan. 2024.
+Disponível em: [De.to Como criar um de Readme.md para o GitHub do Jeito certo](https://dev.to/guilhermemanzano/como-criar-um-readme-md-para-o-github-do-jeito-certo-2lgg). Acesso 09 de Jan. 2024.
 
-Disponível em: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open. Acesso 09 de Jan. 2024.
+Disponível em: [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open). Acesso 09 de Jan. 2024.
 
-Disponível em: https://www.collectiveray.com/pt/extens%C3%A3o-de-arquivo-markdown-md. Acesso 09 de Jan. 2024.
+Disponível em: [O que é um arquivo .MD?
+](https://www.collectiveray.com/pt/extens%C3%A3o-de-arquivo-markdown-md). Acesso 09 de Jan. 2024.
 
-Disponível em: https://ficheiros.com.br/extensao/md/. Acesso 09 de Jan. 2024.
+Disponível em: [MD Extensão de Arquivo](https://ficheiros.com.br/extensao/md/). Acesso 09 de Jan. 2024.
