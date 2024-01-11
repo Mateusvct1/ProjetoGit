@@ -1,4 +1,4 @@
-### Olá, esse projeto ensina a usar o git, seguindo as orientações de Rafaella Ballerini,como também outros sites, ajudando assim nas definições junto com o canal dela, assista a vídeo aula no link  logo abaixo:
+# Olá, esse projeto ensina a usar o git, seguindo as orientações de Rafaella Ballerini,como também outros sites, ajudando assim nas definições junto com o canal dela, assista a vídeo aula no link  logo abaixo:
 
 ## Comandos:
 * git init: Crie um repositório Git vazio ou reinicialize um existente;
@@ -31,7 +31,7 @@
 
 Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que mostra passo como fazer o procedimento correto.
 
-## Algumas definições:
+### Algumas definições:
 * Um branch no Git é simplesmente um ponteiro móvel para um desses commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Cada vez que você faz um novo commit, ele avança automaticamente.
 
 * Merge é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
@@ -40,7 +40,7 @@ Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que 
 
 Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
 
-## Bibliografia:
+#### Bibliografia:
 Disponível em: [Canal do Youtube de Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini). Acesso 08 de Jan. 2024.
 
 Disponível em: [Site do Git](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras#:~:text=O%20nome%20do%20branch%20padr%C3%A3o,novo%20commit%2C%20ele%20avan%C3%A7a%20automaticamente.&text=O%20branch%20'%60%20master%20'',n%C3%A3o%20%C3%A9%20um%20branch%20especial). Acesso 08 de Jan. 2024.
