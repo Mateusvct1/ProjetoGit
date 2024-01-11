@@ -29,7 +29,7 @@
 * clear: para limpar o terminal;
 * pull request: Básicamente você faz um fork em um repositório, e faz alguma alteração e sugere essa alteração fazendo o pull request para o dono do repositório orginal.
 
-      Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que mostra passo como fazer o procedimento correto.
+    Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que mostra passo como fazer o procedimento correto.
 
 ### Algumas definições:
 * Um branch no Git é simplesmente um ponteiro móvel para um desses commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Cada vez que você faz um novo commit, ele avança automaticamente.
@@ -38,7 +38,7 @@
 
 * Markdown Syntax um conjunto de regras para formatação de texto na internet, usada em plataformas como o GitHub e o slack. São textos simples com implemetações especiais. como por exemplo #, * e ! para titulos, listas e textos itálicos e negrito como também inserir imagens. Tornando uma formatação de texto na web mais simples e padronizada.
 
-      Obs: Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
+    Obs: Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
 
 #### Bibliografia:
 Disponível em: [Canal do Youtube de Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini). Acesso 08 de Jan. 2024.
