@@ -38,7 +38,12 @@
 
 * Markdown Syntax um conjunto de regras para formatação de texto na internet, usada em plataformas como o GitHub e o slack. São textos simples com implemetações especiais. como por exemplo #, * e ! para titulos, listas e textos itálicos e negrito como também inserir imagens. Tornando uma formatação de texto na web mais simples e padronizada.
 
+
     Obs: Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
+
+* .gitignore - Um arquivo de texto que você coloca para não inserir no repositório
+
+    Obs: sempre colocar com ponto ".gitignore"
 
 #### Bibliografia:
 Disponível em: [Canal do Youtube de Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini). Acesso 08 de Jan. 2024.
@@ -65,3 +70,5 @@ Disponível em: [O que é um arquivo .MD?
 ](https://www.collectiveray.com/pt/extens%C3%A3o-de-arquivo-markdown-md). Acesso 09 de Jan. 2024.
 
 Disponível em: [MD Extensão de Arquivo](https://ficheiros.com.br/extensao/md/). Acesso 09 de Jan. 2024.
+
+Disponível em: [Ignorando arquivos com .gitignore | Git Essencial - 13](https://www.youtube.com/watch?v=2IrEumgH1Zg&ab_channel=BrazilianDev). Acesso 12 de Jan. 2024.
