@@ -1,5 +1,6 @@
 # Olá, esse projeto ensina a usar o git, seguindo as orientações de Rafaella Ballerini,como também outros sites, ajudando assim nas definições junto com o canal dela, assista a vídeo aula no link  logo abaixo:
 
+
 ## Comandos:
 * git init: Crie um repositório Git vazio ou reinicialize um existente;
 * git add: Adiciona o conteúdo do arquivo ao índice;
@@ -27,9 +28,15 @@
 * git clone linkdorepositoquevocequerclonar.git: Para clonar um repositório;
 * cd nome do local do arquivo a ser trabalhado: Comando utilizado para entrar dentro de uma pasta;
 * clear: para limpar o terminal;
-* pull request: Básicamente você faz um fork em um repositório, e faz alguma alteração e sugere essa alteração fazendo o pull request para o dono do repositório orginal.
+* pull request: Básicamente você faz um fork em um repositório, e faz alguma alteração e sugere essa alteração fazendo o pull request para o dono do repositório orginal;
 
     Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que mostra passo como fazer o procedimento correto.
+
+*   mkdir - Para criar uma pasta;
+*   rm -rf nome_da_pasta - Para excluir uma pasta;
+*   touch nome_do_arquivo.tipo - Para criar um arquivo;
+*   rm nome_do_arquivo.tipo - Para excluir o arquivo permanentemente;
+*   rm -i nome_do_arquivo.tipo - Para excluir o arquivo com confirmação;
 
 ### Algumas definições:
 * Um branch no Git é simplesmente um ponteiro móvel para um desses commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Cada vez que você faz um novo commit, ele avança automaticamente.
