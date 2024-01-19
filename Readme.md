@@ -52,7 +52,7 @@
 
     Obs: sempre colocar com ponto ".gitignore"
 
-#### Bibliografia:
+#### Referência:
 Disponível em: [Canal do Youtube de Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini). Acesso 08 de Jan. 2024.
 
 Disponível em: [Site do Git](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras#:~:text=O%20nome%20do%20branch%20padr%C3%A3o,novo%20commit%2C%20ele%20avan%C3%A7a%20automaticamente.&text=O%20branch%20'%60%20master%20'',n%C3%A3o%20%C3%A9%20um%20branch%20especial). Acesso 08 de Jan. 2024.
