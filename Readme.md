@@ -5,7 +5,8 @@
 
 * git config --global user.name "Nome do usuário" -> Define seu nome de usuário no Git;
 * git config --global user.email seu@email.com -> Difine seu endereço de email no Git;
-      ObS: Essas informações acima são importantes porque são usadas em cada commit que você faz
+  
+  Obs: Essas informações acima são importantes porque são usadas em cada commit que você faz.
 * git init: Crie um repositório Git vazio ou reinicialize um existente;
 * git add: Adiciona o conteúdo do arquivo ao índice;
     Duas formas de usar o git add:
