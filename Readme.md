@@ -56,6 +56,8 @@
 * .gitignore - Um arquivo de texto que você coloca para não inserir no repositório
 
     Obs: sempre colocar com ponto ".gitignore"
+* git stash - Permite que salve temporariamente suas alterações para usa-las depois.
+* git stach drop - Para excluir as alterações armazenadas no stash.
 
 #### Referência:
 Disponível em: [Canal do Youtube de Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini). Acesso 08 de Jan. 2024.
