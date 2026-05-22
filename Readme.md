@@ -1,5 +1,6 @@
-# Olá, esse projeto ensina a usar o git, seguindo as orientações de Rafaella Ballerini,como também outros sites, ajudando assim nas definições junto com o canal dela, assista a vídeo aula no link  logo abaixo:
+# Olá! Este projeto ensina a utilizar o Git, seguindo as orientações de Rafaella Ballerini e também de outros sites, auxiliando no aprendizado dos principais comandos e conceitos da ferramenta.
 
+Assista à videoaula no link abaixo, nas referências:
 
 ## Comandos:
 
