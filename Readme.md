@@ -24,9 +24,15 @@
 * git push -u origin main: É geralmente executado para enviar as alterações locais para o repositório online. Configurando a branch remoto para rastrear sua branch local. Necessário para perimitir que sicronize sua branch local com o repoitório remoto usando o git pull.
     -u: Este parâmetro configura o branch remoto como o branch de rastreamento upstream. Isso significa que, no futuro, você pode usar git pull sem especificar o repositório ou o branch
 * git push: Atualiza referências remotas junto com objetos associados;
-* git checkout -b "nova branch": Para criar uma nova branch;
-    "checkout": Sai da branch atual que você está, e indo para nova criada.
-    OBS: Caso queira voltar para branch anterior digite git checkout main, caso a sua branch anterior for a main.
+* git checkout -b nome_da_nova_branch: Cria uma nova branch e já muda para ela automaticamente.
+
+    "checkout": Sai da branch atual e entra na nova branch criada.
+
+    OBS: Caso queira voltar para a branch anterior, digite:
+    git checkout main
+
+    (considerando que sua branch principal seja a main)
+  
 * git merge nova branch: Para unificar a branch nova com a antiga;
 * git-pull: Busque e integre-se a outro repositório ou em um ramo local, Ou seja puxa tudo que tipo no repositório online para o local;
 
