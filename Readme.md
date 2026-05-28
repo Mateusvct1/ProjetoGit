@@ -5,7 +5,7 @@ Assista à videoaula no link abaixo, nas referências:
 ## Comandos:
 
 * git config --global user.name "Nome do usuário" -> Define seu nome de usuário no Git;
-* git config --global user.email seu@email.com -> Difine seu endereço de email no Git;
+* git config --global user.email seu@email.com -> Define seu endereço de email no Git;
   
   Obs: Essas informações acima são importantes porque são usadas em cada commit que você faz.
 * git init: Crie um repositório Git vazio ou reinicialize um existente;
