@@ -35,14 +35,14 @@ Assista à videoaula no link abaixo, nas referências:
     (considerando que sua branch principal seja a main)
   
 * git merge nova branch: Para unificar a branch nova com a antiga;
-* git-pull: Busque e integre-se a outro repositório ou em um ramo local, Ou seja puxa tudo que tipo no repositório online para o local;
+* git pull puxa as alterações que estão no repositório remoto (GitHub, por exemplo) e atualiza sua cópia local com essas mudanças.
 
 * git clone linkdorepositoquevocequerclonar.git: Para clonar um repositório;
 * cd nome do local do arquivo a ser trabalhado: Comando utilizado para entrar dentro de uma pasta;
 * clear: para limpar o terminal;
-* pull request: Básicamente você faz um fork em um repositório, e faz alguma alteração e sugere essa alteração fazendo o pull request para o dono do repositório orginal;
+* Pull Request (PR): É uma solicitação de integração de alterações. Por exemplo, você faz um fork de um repositório, realiza modificações e envia um Pull Request para que o dono do repositório original analise e, se desejar, incorpore suas mudanças.
 
-    Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixa, que mostra passo como fazer o procedimento correto.
+    Obs: O pull request é bom você assistir o vídeo dísponivel logo abaixo nas referências, que mostra passo como fazer o procedimento correto.
 
 *   mkdir - Para criar uma pasta;
 *   rm -rf nome_da_pasta - Para excluir uma pasta;
@@ -55,7 +55,7 @@ Assista à videoaula no link abaixo, nas referências:
 
 * Merge é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
 
-* Markdown Syntax um conjunto de regras para formatação de texto na internet, usada em plataformas como o GitHub e o slack. São textos simples com implemetações especiais. como por exemplo #, * e ! para titulos, listas e textos itálicos e negrito como também inserir imagens. Tornando uma formatação de texto na web mais simples e padronizada.
+* Markdown Syntax é um conjunto de regras para formatação de texto na internet, utilizado em plataformas como o GitHub e o Slack. Ele permite criar textos simples com marcações especiais, como # para títulos, * para listas, itálico e negrito, além de possibilitar a inserção de links e imagens. Dessa forma, torna a formatação de textos na web mais simples, legível e padronizada.
 
 
     Obs: Os arquivos .md são usados principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e escrever.
@@ -64,7 +64,7 @@ Assista à videoaula no link abaixo, nas referências:
 
     Obs: sempre colocar com ponto ".gitignore"
 * git stash - Permite que salve temporariamente suas alterações para usa-las depois.
-* git stach drop - Para excluir as alterações armazenadas no stash.
+* git stash drop - Para excluir as alterações armazenadas no stash.
 
 #### Referência:
 Disponível em: [Canal do Youtube de Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini). Acesso 08 de Jan. 2024.
@@ -83,7 +83,7 @@ Disponível em: [Atlassian](https://www.atlassian.com/br/git/tutorials/using-bra
 
 Disponível em: [Git Tutorial da Rafaella Ballerini](https://github.com/rafaballerini/GitTutorial?tab=readme-ov-file). Acesso 08 de Jan. 2024.
 
-Disponível em: [De.to Como criar um de Readme.md para o GitHub do Jeito certo](https://dev.to/guilhermemanzano/como-criar-um-readme-md-para-o-github-do-jeito-certo-2lgg). Acesso 09 de Jan. 2024.
+Disponível em: [Como criar um de Readme.md para o GitHub do Jeito certo](https://dev.to/guilhermemanzano/como-criar-um-readme-md-para-o-github-do-jeito-certo-2lgg). Acesso 09 de Jan. 2024.
 
 Disponível em: [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open). Acesso 09 de Jan. 2024.
 
