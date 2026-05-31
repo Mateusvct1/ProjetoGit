@@ -1,7 +1,8 @@
-# Olá! Este projeto ensina a utilizar o Git, seguindo as orientações de Rafaella Ballerini e também de outros sites, auxiliando no aprendizado dos principais comandos e conceitos da ferramenta.
+# Projeto Git
 
-Assista à videoaula no link abaixo, nas referências:
+Material de estudo criado para auxiliar no aprendizado de Git e GitHub.
 
+Este conteúdo foi elaborado com base em documentações oficiais e materiais educacionais citados na seção de referências.
 ## Comandos:
 
 * git config --global user.name "Nome do usuário" -> Define seu nome de usuário no Git;
