@@ -34,8 +34,20 @@ Este conteúdo foi elaborado com base em documentações oficiais e materiais ed
     git checkout main
 
     (considerando que sua branch principal seja a main)
-  
-* git merge nova branch: Para unificar a branch nova com a antiga;
+-------------------------------------------------------------------------------------
+Atenção para um pequeno tutorial logo abaixo:
+
+Depois que é feitas as devidas alterações nessa nova branch é necessario mesclar a branch nova com a branch principal que geralmente é a main, então a seguintes etapas:
+  Primeiro você tem que entrar a branch principal usando o comando "git checkout main" dentro dessa branch principal atualize primeiro a main com o comando "git pull origin main" depois disso pode-se fazer o merge com o comando logo abaixo:  
+
+* git merge nova branch: Para unificar a branch nova com a principal;
+Depois disso pode usar "git push origin main", feito isso, caso não for mais usar a branch que foi criada você pode deletar do seu repositório local e remoto com os seguinte comando:
+
+* git branch -d nome-da-branch: Delete a branch do repositório local;
+* git push origin --delete nome-da-branch: Deleta a branch do repositório remoto;
+------------------------------------------------------------------------------------
+Logo Abaixo mais comandos git:
+
 * git pull puxa as alterações que estão no repositório remoto (GitHub, por exemplo) e atualiza sua cópia local com essas mudanças.
 
 * git clone linkdorepositoquevocequerclonar.git: Para clonar um repositório;
